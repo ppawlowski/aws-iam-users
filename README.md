@@ -28,10 +28,3 @@ module "my_user" {
 |------|-------------|
 |user_password|Returns account's password in encrypted, through provided keybase.io account's PGP public key, way.|
 
-### Contributors
-
-|  [![Piotr Pawłowski][ppawlowski_avatar]][ppawlowski_homepage]<br/>[Piotr Pawłowski][ppawlowski_homepage] |
-|---|
-
-[ppawlowski_homepage]: https://github.com/ppawlowski
-[ppawlowski_avatar]: https://github.com/ppawlowskibh.png?size=150
